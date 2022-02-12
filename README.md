@@ -1,8 +1,8 @@
 - 👋 Hi, I’m <b>Kim Ariel Dequilla</b>
 - 👀 I’m interested in Java Software Development
-- 🌱 I’m currently learning Full Stack Software Development using ReactJs and Java Spring Boot
+- 🌱 I’m currently learning Full Stack Web Development using ReactJS and Java Spring Boot
 - 💞️ I’m looking to collaborate on some project that will improve my skills and knowledge.
-- 📫 How to reach me ... deqkim5@gmail.com
+- 📫 How to reach me: :point_right: <b>Gmail:</b> deqkim5@gmail.com <b>LinkedIn:</b> https://www.linkedin.com/in/dequilla3
 
 <!---
 dequilla3/dequilla3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
