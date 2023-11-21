@@ -1,5 +1,7 @@
-👋 Hi ! <h6>Full Stack Web/Mobile Developer</h6>
- 📫 How to reach me: :point_right: <b>Gmail:</b> deqkim5@gmail.com <b>LinkedIn:</b> https://www.linkedin.com/in/kadequilla
+👋 Hi ! <h3>Full Stack Web Developer</h3>
+ 📫 How to reach me: <br> 
+ <b>Gmail:</b> deqkim5@gmail.com <br>
+ <b>LinkedIn:</b> https://www.linkedin.com/in/kadequilla
 
 <h1 align="center">Skills</h1>
 <p align="center">
