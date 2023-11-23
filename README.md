@@ -5,7 +5,7 @@
 
 <h1 align="center">Skills</h1>
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="#">
     <img src="https://skillicons.dev/icons?i=git,docker,java,spring,javascript,typescript,vuejs,nuxtjs,flutter" />
   </a>
 </p>
