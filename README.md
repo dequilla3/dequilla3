@@ -6,6 +6,6 @@
 <h1 align="center">Skills</h1>
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=git,docker,java,spring,javascript,typescript,nest,vuejs,nuxtjs,react,next,flutter,dart" />
+    <img src="https://skillicons.dev/icons?i=git,docker,java,spring,javascript,typescript,nest,vuejs,nuxtjs,react,next,flutter,dart,c#" />
   </a>
 </p>
