@@ -1,4 +1,4 @@
-👋 Hi ! <h3>Software Engineer (Front-end)</h3>
+👋 Hi ! <h3>Software Developer</h3>
  📫 How to reach me: <br> 
  <b>Gmail:</b> deqkim5@gmail.com <br>
  <b>LinkedIn:</b> https://www.linkedin.com/in/kadequilla
